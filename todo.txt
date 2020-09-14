@@ -1,0 +1,7 @@
+
+We should be able to add text freely on white board panel
+We can resize, rotate and move text at any part of board
+We can add n number of pages to white boards
+We can go to presentation mode 
+We can save board as PDF document or share link
+

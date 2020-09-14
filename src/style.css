@@ -1,0 +1,11 @@
+h1, p {
+  font-family: Lato;
+}
+
+.whiteboard{
+  background: #f7fafc;
+  padding:1em;
+  border : 2px  rgb(145, 102, 102);
+  height: 400px;
+  width: 700px;
+}
