@@ -5,8 +5,9 @@
   "dependencies": {
     "react": "16.13.1",
     "react-dom": "16.13.1",
+    "react-rnd": "^10.2.2",
     "slate": "0.58.4",
-    "slate-hyperscript": "^0.58.4",
+    "slate-hyperscript": "0.58.4",
     "slate-react": "0.58.4"
   },
   "scripts": {
